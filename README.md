@@ -46,3 +46,9 @@ Week 2:
 - Integrate frontend with backend API for displaying accommodation search results.
 - Design database tables for storing accommodation data.
 - Implement basic error handling for accommodation booking process.
+
+
+# Anti-Lab 2
+- Oleh Finiak
+- [Repo](https://github.com/Finiik/finiak.university.twitter.git)
+- [Pull request](https://github.com/Finiik/Nemyrka.University.Booking/pull/1)
